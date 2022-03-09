@@ -10,16 +10,15 @@
     "type": "git",
     "url": "git+https://github.com/tinasieben/jest-another-RPG.git"
   },
+  "keywords": [],
   "author": "Christina Sieben",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/tinasieben/jest-another-RPG/issues"
   },
   "homepage": "https://github.com/tinasieben/jest-another-RPG#readme",
-  "devDependencies": {
-    "jest": "^27.5.1"
-  },
   "dependencies": {
-    "inquirer": "^8.2.1"
+    "inquirer": "^7.0.3",
+    "jest": "^24.9.0"
   }
 }
